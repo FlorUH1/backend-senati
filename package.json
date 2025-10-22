@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/FlorUH1/backend-senati/issues"
   },
-  "homepage": "https://github.com/FlorUH1/backend-senati#readme"
+  "homepage": "https://github.com/FlorUH1/backend-senati#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
