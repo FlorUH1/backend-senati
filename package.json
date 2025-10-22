@@ -1,0 +1,19 @@
+{
+  "name": "backend-senati",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlorUH1/backend-senati.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FlorUH1/backend-senati/issues"
+  },
+  "homepage": "https://github.com/FlorUH1/backend-senati#readme"
+}
